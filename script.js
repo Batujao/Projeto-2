@@ -22,6 +22,7 @@ function iniciarJogoSecreto() {
       alert(`O número secreto é maior que ${chute}. Tente novamente.`);
     }
   }
+  alert("Jogo Finalizado!");
 }
 
 //Funcão jogo da Media
@@ -62,6 +63,7 @@ function iniciarJogoMedia() {
       )}`
     );
   }
+  alert("Jogo Finalizado!");
 }
 
 //Funçao jogo da soma
